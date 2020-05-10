@@ -21,5 +21,11 @@
         "sass": "^1.15.2",
         "sass-loader": "^8.0.0",
         "vue-template-compiler": "^2.6.11"
+    },
+    "dependencies": {
+        "pos": "^0.4.2",
+        "crc": "~0.2.1",
+        "async": "~0.2.9",
+        "natural": "~0.1.25"
     }
 }
